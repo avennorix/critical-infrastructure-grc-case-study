@@ -1,0 +1,7 @@
+ID,Asset or service,Risk scenario,Likelihood (1-5),Impact (1-5),Inherent score,Existing control evidence,Recommended treatment,Owner,Due date,Residual risk,Status
+R1,Critical services,Physical damage causes prolonged outage,5,5,25,To be assessed,Test continuity and alternate-service arrangements,TBD,TBD,TBD,Open
+R2,IT/OT and facilities,Power or cooling loss interrupts service,5,5,25,To be assessed,Validate redundant power and recovery priorities,TBD,TBD,TBD,Open
+R3,Backup systems,Backups unavailable or cannot be restored,4,5,20,To be assessed,Maintain protected backups and test restoration,TBD,TBD,TBD,Open
+R4,SOC and communications,Connectivity loss interrupts monitoring and escalation,4,4,16,To be assessed,Test alternate communications and escalation paths,TBD,TBD,TBD,Open
+R5,Identity and administration,Emergency changes or weak access controls increase cyber risk,3,5,15,To be assessed,Enforce MFA least privilege logging and emergency-change review,TBD,TBD,TBD,Open
+R6,Cloud and suppliers,Third-party disruption delays recovery,4,4,16,To be assessed,Review supplier dependencies and test failover,TBD,TBD,TBD,Open
