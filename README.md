@@ -1,1 +1,19 @@
-# critical-infrastructure-grc-case-study
+# Critical Infrastructure GRC Case Study
+
+## Objective
+Assess risks to critical infrastructure
+from physical damage and service disruption.
+
+## Key Risks
+- Power outages
+- Data loss
+- Loss of security monitoring
+- Supplier disruption
+
+## Framework
+NIST Cybersecurity Framework 2.0
+
+## Recommendations
+- Test backup restoration.
+- Maintain alternative communications.
+- Review business continuity plans.
