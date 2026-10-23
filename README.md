@@ -17,3 +17,5 @@ NIST Cybersecurity Framework 2.0
 - Test backup restoration.
 - Maintain alternative communications.
 - Review business continuity plans.
+
+Development note: AI tools assisted with drafting and structuring this educational case study. The project owner is responsible for reviewing the content, validating references, and maintaining the final risk assessment.
